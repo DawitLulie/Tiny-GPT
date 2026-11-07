@@ -4,7 +4,7 @@ A compact, educational GPT-style language model built from scratch in Python and
 
 ## Download Trained Model Checkpoints
 
-Large checkpoint files are stored on Google Drive because large binary weights are not kept in this GitHub repository.
+Large checkpoint files are stored on Google Drive because large binary weights are not kept in this GitHub repository. 
 
 [Download Trained Model Checkpoints](https://drive.google.com/drive/folders/1iKBE4K8TjKUqmkDzmuIw5j9ZAXTKQ1ac?usp=sharing)
 
